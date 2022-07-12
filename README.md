@@ -2,9 +2,9 @@
 
 
 <!-- TODO: Insert the link in between the parenthesis -->
-👋  Hi! I'm Lenz Paul. I'm a programmer from [Vancouver, Canada](https://www.google.com/maps/place/Vancouver,+BC/@49.2576508,-123.2639868,11z/data=!3m1!4b1!4m5!3m4!1s0x548673f143a94fb3:0xbb9196ea9b81f38b!8m2!3d49.2827291!4d-123.1207375?hl=en).  
+👋  Hi! I'm Jeremy Nelson. I'm a recent Google Cloud Engineer Fellow from [Dallas, Texas](https://www.https://www.google.com/maps/place/Dallas,+TX/@32.8160108,-97.8135679,9z/data=!3m1!4b1!4m5!3m4!1s0x864c19f77b45974b:0xb9ec9ba4f647678f!8m2!3d32.7766642!4d-96.7969879?hl=en).  
 
-This is the repository for [my portfolio](https://lenzpaul.dev/). 
+This is the repository for [my portfolio](www.nelsonjjeremy.com). 
 
 <br>
 
@@ -32,7 +32,7 @@ The variables are:
 - App engine configuration is located in `app.yaml` 
 - The Flask code is located in `main.py`
 - Images are located in `static/images/`
-- My resume is located in `static/static/general_swe_resume_lenz_paul_nov_2021.pdf`
+- My resume is located in `static/static/JeremyNelson_GeneralResume.pdf`
 
 ## Deployment
 - To deploy this app **live**:
