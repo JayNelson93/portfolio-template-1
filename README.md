@@ -2,7 +2,7 @@
 
 
 <!-- TODO: Insert the link in between the parenthesis -->
-👋  Hi! I'm Jeremy Nelson. I'm a recent Google Cloud Engineer Career Training Graduate from [Dallas, Texas](https://www.https://www.google.com/maps/place/Dallas,+TX/@32.8160108,-97.8135679,9z/data=!3m1!4b1!4m5!3m4!1s0x864c19f77b45974b:0xb9ec9ba4f647678f!8m2!3d32.7766642!4d-96.7969879?hl=en).  
+👋  Hi! I'm Jeremy Nelson. I'm a recent Google Cloud Engineer Career Training graduate from [Dallas, Texas](https://www.https://www.google.com/maps/place/Dallas,+TX/@32.8160108,-97.8135679,9z/data=!3m1!4b1!4m5!3m4!1s0x864c19f77b45974b:0xb9ec9ba4f647678f!8m2!3d32.7766642!4d-96.7969879?hl=en).  
 
 This is the repository for [my portfolio](www.nelsonjjeremy.com). 
 
